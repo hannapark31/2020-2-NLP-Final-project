@@ -4,4 +4,6 @@
 -------------
 
 
-google colab 
+# 실행환경 
+- google colab 
+- 런타임 유형 : GPU 
