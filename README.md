@@ -9,18 +9,19 @@
 ### 2.사용 데이터 
 #### [한국어] Naver sentiment movie corpus v1.0
 - 출처 
+
 <t>[https://github.com/e9t/nsmc.git](https://github.com/e9t/nsmc.git)
   
 #### [영어] Freinds 
 - 출처 
+
 <t>[http://doraemon.iis.sinica.edu.tw/emotionlines/](http://doraemon.iis.sinica.edu.tw/emotionlines/)
 
 
 ### 3.분석 모델 
 #### [한국어] KoELECTRA
 - 참고
+
 <t>[https://github.com/monologg/KoELECTRA](https://github.com/monologg/KoELECTRA)
-
-
 
 <t>[https://blog.naver.com/horajjan/221739630055](https://blog.naver.com/horajjan/221739630055)
