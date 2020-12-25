@@ -21,3 +21,7 @@
 - 참고   
 <t>[https://github.com/monologg/KoELECTRA](https://github.com/monologg/KoELECTRA)   
 <t>[https://blog.naver.com/horajjan/221739630055](https://blog.naver.com/horajjan/221739630055)
+
+#### [영어] ELECTRA
+- 참고 
+<t>[https://huggingface.co/google/electra-small-discriminator](https://huggingface.co/google/electra-small-discriminator)   
